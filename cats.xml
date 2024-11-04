@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cats>
+    <cat>
+        <id>1</id>
+        <name>Барсик</name>
+        <gender>male</gender>
+        <age>3</age>
+        
+        
+        
+    <father>Барсик</father><father>Кошка капитошка6</father></cat>
+    <cat>
+        <id>2</id>
+        <name>Мурка</name>
+        <gender>female</gender>
+        <age>2</age>
+        <mother>444</mother>
+    </cat>
+    <cat>
+        <id>3</id>
+        <name>Бурка</name>
+        <gender>female</gender>
+        <age>3</age>
+    </cat>
+    <cat>
+        <id>4</id>
+        <name>Жучка</name>
+        <gender>female</gender>
+        <age>1</age>
+    <mother>Мурка</mother></cat>
+    <cat>
+        <id>5</id>
+        <name>Редактор кошка</name>
+        <gender>male</gender>
+        <age>4</age>
+    </cat>
+    <cat>
+        <id>6</id>
+        <name>Кошка капитошка</name>
+        <gender>female</gender>
+        <age>1</age>
+    </cat>
+    
+    
+    
+    
+</cats>
